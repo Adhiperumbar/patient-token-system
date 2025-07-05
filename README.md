@@ -12,6 +12,18 @@
 
 This project is a web application designed to manage patient check-ins and token generation in a healthcare or service setting. It utilizes a modern architecture with a React frontend for a dynamic user interface and a Node.js/Express backend responsible for handling API requests, data storage (MongoDB), and the core token generation logic. Secure access for staff or authorized users is implemented using Google Sign-In via Firebase Authentication.
 
+## 👩‍💻 My Contributions
+
+This project was developed as a team during a 24-hour hackathon.
+
+### My Key Contributions:
+- Designed and built the **patient login and check-in form UI** using React
+- Handled form validation and conditional field rendering (e.g., doctor selection)
+- Integrated frontend with the backend API for token generation using Axios
+- Contributed to **MongoDB schema design** and sample data setup
+- Participated in testing and refining the user flow
+
+---
 ## Features
 
 *   **Patient Check-In Form:** A user-friendly form where patients can easily input their essential information:
