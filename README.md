@@ -1,11 +1,4 @@
 # Patient Token System
-
-## Live Demo
-
-🚀 **Experience the application live here:https://drive.google.com/file/d/1peSMtcE3DWBFTSP12ZEAkXhC9FWLGhuX/view🚀
-
-(Note: For the full functionality including token generation, the backend server must also be running and accessible online. The demo link above will show the frontend UI, including the Google Sign-In feature which works client-side.)
-
 ---
 
 ## Project Description
