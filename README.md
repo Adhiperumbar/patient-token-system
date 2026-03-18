@@ -159,10 +159,4 @@ This project uses a decoupled architecture:
 
 When deploying, you will need to configure environment variables on your hosting platforms with the sensitive keys from your local `.env` files (Firebase config for the frontend platform, MongoDB URI and other backend variables for the backend platform). You will also need to update the API base URL in your frontend code to point to your deployed backend URL instead of `http://localhost:5001`.
 
-## Contributing
 
-(Optional section - add guidelines if you welcome contributions)
-
-## License
-
-(Optional section - add your project's license information)
